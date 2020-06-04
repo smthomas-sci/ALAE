@@ -1,2 +1,3 @@
-# ALAE
-Notes and implementation of ALAE
+---
+permalink: /ALAE_notes.html
+---
