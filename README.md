@@ -1,3 +1,1 @@
----
-permalink: /ALAE_notes.html
----
+<iframe src="./ALAE_notes.html" title="Forward"></iframe>
