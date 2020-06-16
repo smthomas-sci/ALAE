@@ -1,1 +1,2 @@
-<iframe src="./ALAE_notes.html" title="Forward"></iframe>
+ALAE Implentations for Tensorflow 1 and Pytorch on MNIST Digits
+
