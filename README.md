@@ -15,6 +15,6 @@ Training match the hyper-parameters described in the paper, with gamma=0.1 as le
 ![TF1 Curves](./TF_MNIST_traing_curve_100_epochs.png)
 
 ### Tensorflow v2 
-![TF2 Result](./TF2_MNIST_100_epochs.png)
+![TF2 Result](./TF2_MNIST_100_epochs.png.png)
 
 ![TF2 Curves](./TF2_MNIST_traing_curve_100_epochs.png)
