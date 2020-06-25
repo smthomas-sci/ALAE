@@ -18,3 +18,10 @@ Training match the hyper-parameters described in the paper, with gamma=0.1 as le
 ![TF2 Result](./TF2_MNIST_100_epochs.png.png)
 
 ![TF2 Curves](./TF2_MNIST_traing_curve_100_epochs.png)
+
+
+### Trensorflow v2 - Progressively Grown
+
+![TF2 Result](./TF2_32x32_progressive.png)
+
+![TF2 Curves](./TF2_Progressive_curve.png)
